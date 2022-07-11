@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aviv</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on [Melodify](https://melodify-dya.herokuapp.com/)
+- 🔭 I’m currently working on [LinkedIn-clone](https://github.com/Aviv-rs/Linkedin-clone)
 
-- 🌱 I’m currently learning **Angular, Typescript, algorithms, data structures..**
+- 🌱 I’m currently learning **Angular, Typescript, Nest.js, PostgreSQL, algorithms, data structures..**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
