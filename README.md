@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aviv</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on [ecommerse-app](https://github.com/Aviv-rs/ecommerce-app)
+- 🔭 I’m currently working on [ecommerce-app](https://github.com/Aviv-rs/ecommerce-app)
 
 - 🌱 I’m currently learning ** Typescript, algorithms, data structures..**
 
