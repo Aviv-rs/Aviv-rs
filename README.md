@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aviv</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on [ecommerce-app](https://github.com/Aviv-rs/ecommerce-app)
+- 🔭 I’m currently working on multiple web projects in a small team of developers
 
-- 🌱 I’m currently learning ** Typescript, algorithms, data structures..**
+- 🌱 I’m currently learning ** Git, Vue.js, UX/UI..**
 
-- 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **React, Redux and sass**
+- 💬 Ask me about **Vue.js, PHP and sass**
 
 - 📫 How to reach me **aviv80010@gmail.com**
 
